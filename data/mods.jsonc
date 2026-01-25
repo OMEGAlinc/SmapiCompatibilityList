@@ -3994,7 +3994,7 @@
 		},
 		{
 			"name": "Building Menu Anywhere",
-			"author": "OMEGAlinc, OMEGAlincYT",
+			"author": "OMEGAlinc",
 			"id": "OMEGAlinc.BuildingMenuAnywhere",
 			"nexus": 29906,
 			"github": "OMEGAlinc/BuildingMenuAnywhere"
@@ -8952,6 +8952,13 @@
 			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
+			"name": "Duplicate Saves",
+			"author": "OMEGAlinc",
+			"id": "OMEGAlinc.DuplicateSaves",
+			"nexus": 41638,
+			"github": "OMEGAlinc/DuplicateSaves"
+		},
+		{
 			"name": "Durable Fences",
 			"author": "Zoryn",
 			"id": "Zoryn.DurableFences",
@@ -12345,7 +12352,7 @@
 		},
 		{
 			"name": "Freeze Time in Events",
-			"author": "OMEGAlinc, OMEGAlincYT",
+			"author": "OMEGAlinc",
 			"id": "OMEGAlinc.FreezeTimeinEvents",
 			"nexus": 31086,
 			"github": "OMEGAlinc/FreezeTimeinEvents"
@@ -20911,7 +20918,7 @@
 		},
 		{
 			"name": "OMC - OMEGAlinc's Commands",
-			"author": "OMEGAlinc, OMEGAlincYT",
+			"author": "OMEGAlinc",
 			"id": "OMEGAlinc.OMC, OMEGAlinc.NPCAnimalCommands", // changed in 1.1.0
 			"nexus": 29329,
 			"github": "OMEGAlinc/OMC"
@@ -23537,7 +23544,7 @@
 		},
 		{
 			"name": "Quick Eat Keybinds",
-			"author": "OMEGAlinc, OMEGAlincYT",
+			"author": "OMEGAlinc",
 			"id": "OMEGAlinc.QuickEatKeybinds",
 			"nexus": 30081,
 			"github": "OMEGAlinc/QuickEatKeybinds"
